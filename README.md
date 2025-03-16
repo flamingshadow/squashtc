@@ -1,0 +1,2 @@
+# squashtc
+Squash Tournament Control
